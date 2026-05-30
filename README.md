@@ -4,7 +4,7 @@
 
 # ```MinHook```
 
-微型 x86/x64 API 攔截（```Hooking```）函式庫 - 適用於 ```Windows``` 平台
+微型攔截/接管 API 工具（```Hooking```）函式庫 - 適用於 ```Windows```  ```x86/x64``` 平台
 
 [https://www.codeproject.com/articles/MinHook-The-Minimalistic-x-x-API-Hooking-Libra](https://www.codeproject.com/articles/MinHook-The-Minimalistic-x-x-API-Hooking-Libra)
 
